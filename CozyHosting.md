@@ -448,4 +448,4 @@ Through the previous Sudo command, this shell is started with root rights and it
 ## Lessons learned
 
 * There is never enough web enumeration
-* sudo -l is mostly an easy win
+* exposed sudo execution rights on binaries are mostly an easy win
