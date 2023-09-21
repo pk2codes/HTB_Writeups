@@ -1,4 +1,4 @@
-# Cozy Hosting (WriteUp)
+# Hack The Box Write Up: Cozy Hosting
 
 ## Intro
 
